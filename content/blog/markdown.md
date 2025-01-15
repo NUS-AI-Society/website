@@ -1,6 +1,6 @@
 ---
 title: Markdown Style test
-date: 2018-7-24 23:31:06
+date: 2018-7-24T23:31:06
 tags:
   - Foo
   - Bar
@@ -123,11 +123,11 @@ And more text.
 
 - Unordered list can use asterisks
 
-* Or minuses
+- Or minuses
 
 - Or pluses
 
-* Paragraph In unordered list
+- Paragraph In unordered list
 
   For example like this.
 
