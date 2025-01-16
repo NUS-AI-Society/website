@@ -1,6 +1,6 @@
 ---
 title: Training Large Language Models - From Pretraining to Efficient Finetuning
-date: 2024-09-20T21:34:36 +0800
+date: 2024-09-20T21:34:3+0800
 tags: ["events"]
 series: ["Initiation"]
 draft: false
