@@ -1,6 +1,6 @@
 ---
 title: Retrieval Augmented Generation - Beyond Basic Prompting
-date: 2024-10-18T21:34:36 +0800
+date: 2024-10-18T21:34:36+0800
 tags: ["events"]
 series: ["Initiation"]
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: Transformer Part 1
-date: 2024-09-6T21:34:36+08:00
+date: 2024-09-06T21:34:36+08:00
 tags: ["events"]
 series: ["Initiation"]
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: AI Agents - Building Autonomous Systems
-date: 2024-10-25T21:34:36 +0800
+date: 2024-10-25T21:34:36+0800
 tags: ["events"]
 series: ["Initiation"]
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: Advanced Transformer Architectures - From Text to Multimodal
-date: 2024-09-13T21:34:36 +0800
+date: 2024-09-13T21:34:36+0800
 tags: ["events"]
 series: ["Initiation"]
 draft: false
